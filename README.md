@@ -9,7 +9,7 @@
  
  🔭 I’m currently 3rd Year computer science Student**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Machine Learning, Django, MongoDB**
 
 💬 Ask me about **Java, Angular, Springboot... or anything 
 
