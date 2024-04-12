@@ -18,7 +18,7 @@
  </div>
  <br/><hr/>
 
-<h3 align="left">⚡ Connect with me ⚡</h3>
+<h3 align="center">⚡ Connect with me ⚡</h3>
 <br>
 <p align="center" >
 <a href="https://linkedin.com/in/divyanshu khatri" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="divyanshu khatri" height="30" width="40" /></a>
